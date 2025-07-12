@@ -1,0 +1,14 @@
+.main-kocka{
+    position: relative;
+    border: 2px solid #323232;
+    width: 100vw;
+    height: 100vh;
+}
+.kocka{
+    position: absolute;
+    border:2px solid salmon;
+    top: 25%;
+    right:25%;
+    bottom: 25%;
+    left: 25%;
+}
